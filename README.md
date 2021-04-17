@@ -1,4 +1,4 @@
-# Airbnb API
+# Airbnb API v1 branch
 
 REST & GraphQL API of the Airbnb Clone using Django REST Framework and Graphene GraphQL
 
